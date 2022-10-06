@@ -1,0 +1,37 @@
+HTTrack3.49-2 launched on Thu, 22 Sep 2022 13:11:26 at https://html.design/demo/norrig/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://html.design/demo/norrig/index.html -O "/home/kumartej/websites/agriculture_6" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:12:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/detroitchicago/raleigh.js
+13:12:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/favicon.png
+13:12:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/detroitchicago/tulsa.js?gcb=195-0&cb=7
+13:12:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/slider-img.png
+13:12:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/about-img.png
+13:12:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/fresh-img.png
+13:12:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/c1.jpg
+13:12:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/c2.jpg
+13:12:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/images/c3.jpg
+13:12:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+13:12:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/js/jquery-3.4.1.min.js
+13:12:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/js/bootstrap.js
+13:12:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.html_design,DomainId.317139
+13:13:36	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/detroitchicago/grapefruit.gif (from https://html.design/demo/norrig/index.html)
+13:13:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/porpoiseant/army.gif (from https://html.design/demo/norrig/index.html)
+13:13:41	Error: 	"Not Found" (404) at link https://html.design/demo/norrig/audins.js (from https://html.design/demo/norrig/index.html)
+13:15:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/detroitchicago/grapefruit.gif (from https://html.design/demo/norrig/index.html)
+13:15:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://html.design/porpoiseant/army.gif (from https://html.design/demo/norrig/index.html)
+13:15:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/fonts/fontawesome-webfont.woff?v=4.7.0
+13:15:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.design/demo/norrig/fonts/fontawesome-webfont.ttf?v=4.7.0
+13:15:47	Error: 	"Not Found" (404) at link https://html.design/demo/norrig/images/menu.png (from https://html.design/demo/norrig/css/style.css)
+13:17:37	Error: 	"Receive Time Out" (-2) after 2 retries at link https://html.design/detroitchicago/grapefruit.gif (from https://html.design/demo/norrig/index.html)
+13:17:37	Error: 	"Receive Time Out" (-2) after 2 retries at link https://html.design/porpoiseant/army.gif (from https://html.design/demo/norrig/index.html)
+13:17:37	Error: 	"Not Found" (404) at link https://html.design/demo/norrig/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://html.design/demo/norrig/css/font-awesome.min.css)
+13:17:37	Error: 	"Not Found" (404) at link https://html.design/demo/norrig/fonts/fontawesome-webfont.eot? (from https://html.design/demo/norrig/css/font-awesome.min.css)
+13:17:37	Error: 	"Not Found" (404) at link https://html.design/demo/norrig/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://html.design/demo/norrig/css/font-awesome.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 11 seconds : 58 links scanned, 64 files written (2283575 bytes overall) [1625766 bytes received at 4382 bytes/sec], 2844630 bytes transferred using HTTP compression in 64 files, ratio 54%, 3.5 requests per connection
+(7 errors, 19 warnings, 0 messages)
